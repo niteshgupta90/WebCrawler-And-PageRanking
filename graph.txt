@@ -1,0 +1,20 @@
+10
+/wiki/Shortest_tennis_match_records	/wiki/World_number_1_ranked_female_tennis_players
+/wiki/History_of_tennis	/wiki/Volley_(tennis)
+/wiki/History_of_tennis	/wiki/Flat_(tennis)
+/wiki/Tiebreak_(tennis)	/wiki/Flat_(tennis)
+/wiki/Tiebreak_(tennis)	/wiki/History_of_tennis
+/wiki/Tiebreak_(tennis)	/wiki/Volley_(tennis)
+/wiki/Flat_(tennis)	/wiki/Volley_(tennis)
+/wiki/International_Premier_Tennis_League	/wiki/Flat_(tennis)
+/wiki/International_Premier_Tennis_League	/wiki/History_of_tennis
+/wiki/International_Premier_Tennis_League	/wiki/Volley_(tennis)
+/wiki/International_Premier_Tennis_League	/wiki/International_Premier_Tennis_League>
+/wiki/Tennis	/wiki/International_Premier_Tennis_League
+/wiki/Tennis	/wiki/Shortest_tennis_match_records
+/wiki/Tennis	/wiki/Tiebreak_(tennis)
+/wiki/Tennis	/wiki/History_of_tennis
+/wiki/Tennis	/wiki/Flat_(tennis)
+/wiki/Tennis	/wiki/World_number_1_ranked_female_tennis_players
+/wiki/Tennis	/wiki/Richard_Sears_(tennis)
+/wiki/Tennis	/wiki/Volley_(tennis)
